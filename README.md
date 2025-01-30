@@ -11,7 +11,7 @@
 
 ### Описание проекта
 
- 
+Анализ данных о резюме с сайта HeadHunter.ru за период 2018-2019 годов
 :arrow_up:[ К оглавлению](https://github.com/romash23/project-1/blob/master/README.md#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
@@ -29,7 +29,7 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
-:arrow_up:[ К оглавлению](https://github.com/project-1/blob/master/README.md#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/project-1/blob/master/README.md#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 
@@ -37,30 +37,25 @@
 Данные для вычисления программа получает "случайным" образом, поскольку функция random() в Python используется для генерации псевдослучайных чисел. Функция random.seed() в Python используется для инициализации случайных чисел. По умолчанию генератор случайных чисел использует текущее системное время. Если вы дважды используете одно и то же начальное значение, вы получите один и тот же результат, что означает случайное число дважды.
 Это упрощает оптимизацию кодов, когда для тестирования используются случайные числа. Вывод кода иногда зависит от ввода. Поэтому использование случайных чисел для тестирования алгоритмов может быть проблематичным.
 
-:arrow_up:[ К оглавлению](https://github.com/project-1/blob/master/README.md#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/project-1/blob/master/README.md#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 
 ### Этапы работы над проектом
-В данном проекте мы будем опираться на два простейших подхода к решению этой задачи, которые были даны оставлены автором модуля. А именно:
-- [Подход 1: Случайное угадывание](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v1.py)
-- [Подход 2: Угадывание с коррекцией](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v2.py)
 
 Для решения постановленной задачи была написана функция ***game_core_v3***
 - [Решение поставленной задачи](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v3.py)
 
-:arrow_up:[ К оглавлению](https://github.com/project-1/blob/master/README.md#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/project-1/blob/master/README.md#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результат
 Для этого была написана функция ***max_attempt_score***, которая считает максимальное число попыток при угадывании программой целого числа от 0 до 100.
 Также мы использовали функцию ***score_game***, написанную автором модуля. Она считает за какое количство попыток в среднем за 1000 подходов наш алгоритм угадывает число
 
-[Для того, чтобы увидеть результат работы, нажмите сюда](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game.ipynb)
-
-:arrow_up:[ К оглавлению](https://github.com/project-1/blob/master/README.md#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/project-1/blob/master/README.md#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы
 В данном модуле мы научились пользоваться платформой GitHub, познакомились со средой VS Code, а также применили знания, полученные ранее на практике
 
-:arrow_up:[ К оглавлению](https://github.com/project-1/blob/master/README.md#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/project-1/blob/master/README.md#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
