@@ -11,7 +11,7 @@
 
 ### Описание проекта
 
-Анализ данных о резюме с сайта HeadHunter.ru за период 2018-2019 годов
+В данном проекте будет проводится анализ данных о резюме с сайта HeadHunter.ru за период 2018-2019 годов
 
 [Ссылка](https://drive.google.com/file/d/1gvAm_LFMBI-DTz31dWgY1OVGhUGDuNF4/view?usp=drive_link) на исходные данные
 
