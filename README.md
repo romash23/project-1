@@ -12,6 +12,9 @@
 ### Описание проекта
 
 Анализ данных о резюме с сайта HeadHunter.ru за период 2018-2019 годов
+
+[Ссылка](https://drive.google.com/file/d/1gvAm_LFMBI-DTz31dWgY1OVGhUGDuNF4/view?usp=drive_link) на исходные данные
+
 :arrow_up:[ К оглавлению](https://github.com/romash23/project-1/blob/master/README.md#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
